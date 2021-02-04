@@ -13,3 +13,9 @@ in the "normal" order. Building the solution with this approach resulted in the 
 upside down. The natural solution was to just fill the .ppm file contents "upside-down" into the 
 img_data array. After referring to the textbook reading on coordinate systems, and how the OpenGL 
 coordinate system worked in this left-to-right, bottom-to-top order.
+
+### Extra Features Added
+
+- Changing	something	visually	when	the	user	presses	the	keyboard
+    - Rotate shape by 45 degrees clockwise when the 't' key is pressed
+    - Rotate shape by 45 degrees counter-clockwise when the 'g' key is pressed
