@@ -36,9 +36,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image](proj1_img1.jpg)
-![Image](proj1_img2.jpg)
-![Image](proj1_img3.jpg)
-![Image](proj1_img4.jpg)
-![Image](proj1_img5.jpg)
+
+![image](https://user-images.githubusercontent.com/59031606/107131532-fa645b80-689c-11eb-9b56-3959a5c72a9c.png)
+![image](https://user-images.githubusercontent.com/59031606/107131576-529b5d80-689d-11eb-80b7-5b10f3f49dff.png)
+![image](https://user-images.githubusercontent.com/59031606/107131588-68a91e00-689d-11eb-8674-0e1df91bb1ce.png)
+![image](https://user-images.githubusercontent.com/59031606/107131600-7a8ac100-689d-11eb-8a8d-e3fa03ca8ed4.png)
+![image](https://user-images.githubusercontent.com/59031606/107131612-95f5cc00-689d-11eb-8e48-2ce1091389de.png)
+![image](https://user-images.githubusercontent.com/59031606/107131617-a7d76f00-689d-11eb-8371-28f683bcda13.png)
 
