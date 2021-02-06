@@ -1,0 +1,21 @@
+﻿  squareStarter.cpp
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\multivector.h(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\primitives.h(127,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\primitives.h(127,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\primitives.h(140,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\primitives.h(141,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(120,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(120,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(120,60): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(122,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(122,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(122,60): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(124,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(124,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(124,60): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(308,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(328,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(528,14): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Abigail\Documents\Spring_21\5607\project_one\squareStarter.cpp(544,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  project_one.vcxproj -> C:\Users\Abigail\Documents\Spring_21\5607\project_one\x64\Debug\project_one.exe
