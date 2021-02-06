@@ -35,7 +35,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-
-![Image](proj1_img1.jpg)
 ```
+![Image](proj1_img1.jpg)
+![Image](proj1_img2.jpg)
+![Image](proj1_img3.jpg)
+![Image](proj1_img4.jpg)
+![Image](proj1_img5.jpg)
 
