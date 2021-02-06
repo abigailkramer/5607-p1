@@ -19,5 +19,3 @@ coordinate system worked in this left-to-right, bottom-to-top order.
 - Changing something visually when the user	presses	the	keyboard
     - Rotate shape by 45 degrees clockwise when the 't' key is pressed
     - Rotate shape by 45 degrees counter-clockwise when the 'g' key is pressed
-- Animating	the	square (without	needing	user input)
-    - *still need to complete*
