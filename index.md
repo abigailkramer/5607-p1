@@ -15,27 +15,7 @@ upside down. The natural solution was to just fill the .ppm file contents "upsid
 img_data array. After referring to the textbook reading on coordinate systems, and how the OpenGL 
 coordinate system worked in this left-to-right, bottom-to-top order.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### Pictures of Project in Process
 
 ![image](https://user-images.githubusercontent.com/59031606/107131532-fa645b80-689c-11eb-9b56-3959a5c72a9c.png)
 ![image](https://user-images.githubusercontent.com/59031606/107131576-529b5d80-689d-11eb-80b7-5b10f3f49dff.png)
