@@ -15,6 +15,8 @@ upside down. The natural solution was to just fill the .ppm file contents "upsid
 img_data array. After referring to the textbook reading on coordinate systems, and how the OpenGL 
 coordinate system worked in this left-to-right, bottom-to-top order.
 
+* This project was done on Windows Operating System
+
 ### Pictures of Project in Process
 
 ![image](https://user-images.githubusercontent.com/59031606/107131532-fa645b80-689c-11eb-9b56-3959a5c72a9c.png)
@@ -23,4 +25,4 @@ coordinate system worked in this left-to-right, bottom-to-top order.
 ![image](https://user-images.githubusercontent.com/59031606/107131600-7a8ac100-689d-11eb-8a8d-e3fa03ca8ed4.png)
 ![image](https://user-images.githubusercontent.com/59031606/107131612-95f5cc00-689d-11eb-8e48-2ce1091389de.png)
 ![image](https://user-images.githubusercontent.com/59031606/107131617-a7d76f00-689d-11eb-8371-28f683bcda13.png)
-
+![image](https://user-images.githubusercontent.com/59031606/107566847-f7be7a80-6baa-11eb-8667-f60be04db117.png)
