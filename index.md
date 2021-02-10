@@ -15,7 +15,13 @@ upside down. The natural solution was to just fill the .ppm file contents "upsid
 img_data array. After referring to the textbook reading on coordinate systems, and how the OpenGL 
 coordinate system worked in this left-to-right, bottom-to-top order.
 
-* This project was done on Windows Operating System
+### Extra Features Added
+
+- Changing something visually when the user	presses	the	keyboard
+    - Rotate shape by 45 degrees clockwise when the 't' key is pressed
+    - Rotate shape by 45 degrees counter-clockwise when the 'g' key is pressed
+
+Note: This project was done on Windows Operating System
 
 ### Pictures of Project in Process
 
